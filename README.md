@@ -63,15 +63,3 @@ SecureVault API is running
 Hunter Rector
 Computer Science Student at Clemson University
 
-### Best way to add it
-
-Don’t use the green GitHub **Add a README** button. Add it locally so we keep using a proper Git workflow.
-
-In IntelliJ:
-
-Right-click the top-level `securevault` folder → **New → File**
-
-Name it:
-
-```text
-README.md
